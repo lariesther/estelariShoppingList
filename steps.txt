@@ -1,0 +1,14 @@
+git config --global user.name lariesther
+git config --global user.email larissafantinatti24@gmail.com
+
+Criar o projeto APENAS: 
+npx create-expo-app@latest estelariShoppingList --template blank
+
+
+executar o projeto:
+dar cd na pasta do projeto antes
+npx expo start 
+
+instala o pacote web
+npx expo install react-dom react-native-web @expo/metro-runtime
+'
