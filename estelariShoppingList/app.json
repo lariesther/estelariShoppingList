@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "estelariShoppingList",
-    "slug": "estelariShoppingList",
+    "name": "GalloShoppingList",
+    "slug": "GalloShoppingList",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-    "scheme": "estelari-shopping-list-scheme",
+    "scheme": "gallo-shopping-list-scheme",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -23,10 +23,8 @@
       }
     },
     "web": {
-      
       "favicon": "./assets/favicon.png",
-       "bundler": "metro"
-
+      "bundler": "metro"
     },
     "plugins": [
       "expo-router"
